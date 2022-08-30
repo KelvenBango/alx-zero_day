@@ -1,1 +1,1 @@
-My first readme
+readme file at alx-zero-day directory
